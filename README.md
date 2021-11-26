@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Campaign Data Analysis
 ## Overview
 The overview of this project is analyzing data to determine how different campaigns faired in relation to their launch dates, campaign types, and funding goals.
 ## Purpose
