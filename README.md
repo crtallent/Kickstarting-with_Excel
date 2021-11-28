@@ -2,7 +2,7 @@
 ## Overview
 The overview of this project is analyzing data to determine how different campaigns faired in relation to their launch dates, campaign types, and funding goals.
 ## Purpose
-### The purpose of the project was to analyze trends to predict future campaign successes, prior to launching.
+The purpose of the project was to analyze trends to predict future campaign successes, prior to launching.
 ## Analysis
 The analysis of the project included 4,112 projects in various categories as well as subcategories such as film and video, television, theater, plays, technology, games, publishing, music, and many others. The challenges included analying such a large dataset, and funneling down to determine which information would be the most relevant for the project.  Deeper analyses included an analysis of outcomes based on launch date, and an analysis of outcomes based on goals.
 ## Results
