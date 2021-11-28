@@ -1,6 +1,6 @@
 # Campaign Data Analysis
 ## Overview
-The overview of this project is analyzing data to determine how different campaigns faired in relation to their launch dates, campaign types, and funding goals.
+The overview of this project is analyzing data to determine how different campaigns fared in relation to their launch dates, campaign types, and funding goals.
 ## Purpose
 The purpose of the project was to analyze trends to predict future campaign successes, prior to launching.
 ## Analysis
