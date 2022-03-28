@@ -10,7 +10,7 @@ The purpose of the project was to analyze trends to predict future campaign succ
 
 ### Analysis and Challenges
 
-The analysis of the project included 4,112 projects in various categories as well as subcategories such as film and video, television, theater, plays, technology, games, publishing, music, and many others. The challenges included analying such a large dataset, and funneling down to determine which information would be the most relevant for the project.  Deeper analyses included an analysis of outcomes based on launch date, and an analysis of outcomes based on goals.
+The analysis of the project included 4,112 projects in various categories as well as subcategories such as film and video, television, theater, plays, technology, games, publishing, music, and many others. The challenges included analyzing such a large dataset, and funneling down to determine which information would be the most relevant for the project.  Deeper analyses included an analysis of outcomes based on launch date, and an analysis of outcomes based on goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
